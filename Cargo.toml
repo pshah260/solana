@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "shared",
+    "ingest",
+    "consumer",
+]
+resolver = "2"

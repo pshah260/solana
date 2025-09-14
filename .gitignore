@@ -1,0 +1,4 @@
+target/
+**/*.mmap
+.DS_Store
+gemini-keys.txt
